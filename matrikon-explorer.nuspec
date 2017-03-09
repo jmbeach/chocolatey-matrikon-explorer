@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if "n�ppear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>matrikon-explorer</id>
+    <title>Matrikon OPC Explorer (Mobile)</title>
+    <version>5.0.0.0</version>
+    <authors>MatrikonOPC</authors>
+    <owners>jmbeach</owners>
+    <summary>Matrikon OPC Explorer (Mobile)</summary>
+    <description>Matrikon OPC Explorer (Mobile)</description>
+		<projectUrl>http://www.matrikonopc.com/portal/downloads.aspx?dID=176</projectUrl>
+    <tags>opc matrikon admin</tags>
+    <copyright>2016 MatrikonOPC</copyright>
+		<licenseUrl>http://www.matrikonopc.com/portal/downloads.aspx?dID=176</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<!-- <dependencies>
+      <dependency id="" version="" />
+		</dependencies> -->
+    <releaseNotes>Initial release</releaseNotes>
+		<iconUrl>https://github.com/jmbeach/chocolatey-matrikon-explorer/raw/master/icons/icon.jpg</iconUrl>
+    <packageSourceUrl>https://github.com/jmbeach/chocolatey-matrikon-explorer</packageSourceUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
