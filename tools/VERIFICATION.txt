@@ -1,0 +1,12 @@
+﻿
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+In order to verify the validity of the packages "MobileOPCExplorer.zip" file, download "MobileOPCExplorer.exe" from "http://www.matrikonopc.com/portal/downloads.aspx?dID=176". You will have to register in order to download. 
+
+Next, either download the source of the package from "https://github.com/jmbeach/chocolatey-matrikon-explorer" or download the "matrikon-explorer.5.0.0.0.nupkg" file directly from the chocolatey page "https://chocolatey.org/packages/matrikon-explorer/5.0.0.0" and decomplie it with NuGet Package Explorer (https://chocolatey.org/packages/NugetPackageExplorer). Unzip, the MobileOPCExplorer.zip from the source to find the MobileOPCExplorer.exe file. 
+
+Run  `checksum -t sha256 MobileOPCExplorer.exe` on both the file you downloaded directly from Matrikon and the one from the package source.
+
+Both should output: "2EDE3A3950B835FA633F6B7AA59C409A9503BE34A10F96CBF612FDC66E284B2E"

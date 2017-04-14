@@ -8,7 +8,11 @@
     <authors>MatrikonOPC</authors>
     <owners>jmbeach</owners>
     <summary>Matrikon OPC Explorer (Mobile)</summary>
-    <description>Matrikon OPC Explorer (Mobile)</description>
+    <description>MatrikonOPC Simulation is free for non-production use and can be distributed openly. It is a fully functioning application without restriction.
+
+MatrikonOPC Simulation Server is a free utility used to help test and troubleshoot OPC applications (clients) and connections. Testing applications on "live" OPC servers may result in loss of actual production data. The MatrikonOPC Simulation Server creates an simulated environment so that in the event of a problem, no real process data is lost.
+
+BONUS APPLICATION: MatrikonOPC Explorer. When you download MatrikonOPC Simulation Server, you also get the world's most widely used OPC Client application for testing and configuring OPC connections</description>
 		<projectUrl>http://www.matrikonopc.com/portal/downloads.aspx?dID=176</projectUrl>
     <tags>opc matrikon admin</tags>
     <copyright>2016 MatrikonOPC</copyright>

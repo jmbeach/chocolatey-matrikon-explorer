@@ -1,0 +1,6 @@
+﻿
+From: http://www.matrikonopc.com/portal/downloads.aspx?dID=176
+
+LICENSE
+
+MatrikonOPC Explorer is FREEWARE and can be distributed openly. It is a fully functioning application without restrictions.
